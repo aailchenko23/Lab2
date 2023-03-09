@@ -1,0 +1,12 @@
+package Lab2;
+
+public class First {
+    public static void main(String[]args){;
+      int a;
+       a = 21;
+       double b;
+       b = 7.0;
+        System.out.println("Результат ділення:"+a/b);
+        System.out.println("Результат залишку від ділення:"+a%b);
+    }
+}
